@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhashwatee
-- 👀 I’m interested in ...learning SQL, dancing, sketching, reading books
+- 👀 I’m interested in ...learning SQL, AI,DEEP LEARNING
 - 🌱 I’m currently learning ...SQL,Python
 - 💞️ I’m looking to collaborate on ...none till now
 - 📫 How to reach me ...mail-bhashwateedas5@gmail.com
